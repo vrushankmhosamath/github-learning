@@ -21,4 +21,6 @@ elif choice == "4":
 		print("Error : Division by zero")
 else:
 	print("Invalid choice")
-print("Calculation done !")
+
+print("this is first test")
+print("this is the next test")
