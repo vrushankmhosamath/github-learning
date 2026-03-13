@@ -1,4 +1,4 @@
 l=float(input("enter the length"))
-b=floatinput("enter the breadth"))
+b=float(input("enter the breadth"))
 area =l*b
 print("Area is ",area)
